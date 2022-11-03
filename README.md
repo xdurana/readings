@@ -7,14 +7,17 @@ Books I read, sometimes, somewhere.
 ### Currently reading
 
 - **Dune**, Frank Herbert
-- **A l'ombra d'Amazon**, Alec MacGillis
-- **Meditacions**, Marc Aureli
-- **Fundamentals of Data Engineering**, Joe Reis and Matt Housley
 
 ### 2022
 
+- **Mort d'un guia de riu**, Richard Flanagan
+- **Blanc**, Han Kang
+- **Meditacions**, Marc Aureli
+- **A l'ombra d'Amazon**, Alec MacGillis
+- **Snowflake: The Definitive Guide**, Joyce Kay Avila
+- **Fundamentals of Data Engineering**, Joe Reis and Matt Housley
 - **k-punk**, Mark Fischer
-- **Designing Data-Intensive Applications**, Martin Kleppmann 
+- **Designing Data-Intensive Applications**, Martin Kleppmann
 
 ### 2021
 
