@@ -7,9 +7,11 @@ Books I read, sometimes, somewhere.
 ### Currently reading
 
 - **Dune**, Frank Herbert
+- **El pare mort**, Donald Barthelme
 
 ### 2022
 
+- **Para una autopsia de la vida cotidiana**, J. G. Ballard
 - **Mort d'un guia de riu**, Richard Flanagan
 - **Blanc**, Han Kang
 - **Meditacions**, Marc Aureli
