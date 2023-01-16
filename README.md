@@ -13,7 +13,7 @@ Books I read, sometimes, somewhere.
 
 ### 2022
 
-- **Yo soy el monstruo que os habla: Informe para una Academia de psicoanalistas, Paul B. Preciado
+- **Yo soy el monstruo que os habla: Informe para una Academia de psicoanalistas**, Paul B. Preciado
 - **Colònia DMZ**, Don Mee Choi
 - **Autobiografía de un pulpo**, Vinciane Despret
 - **Dysphoria mundi**, Paul B. Preciado
