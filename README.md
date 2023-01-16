@@ -4,13 +4,19 @@
 
 Books I read, sometimes, somewhere.
 
-### Currently reading
+### 2023
 
-- **Dune**, Frank Herbert
-- **El pare mort**, Donald Barthelme
+- **Filla d'octubre**, Linda Boström Knausgård
+- **L'esdeveniment**, Annie Ernaux
+- **Un apartamento en Urano**, Paul B. Preciado
+- **La caiguda**, Albert Camus
 
 ### 2022
 
+- **Yo soy el monstruo que os habla: Informe para una Academia de psicoanalistas, Paul B. Preciado
+- **Colònia DMZ**, Don Mee Choi
+- **Autobiografía de un pulpo**, Vinciane Despret
+- **Dysphoria mundi**, Paul B. Preciado
 - **Para una autopsia de la vida cotidiana**, J. G. Ballard
 - **Mort d'un guia de riu**, Richard Flanagan
 - **Blanc**, Han Kang
@@ -18,11 +24,11 @@ Books I read, sometimes, somewhere.
 - **A l'ombra d'Amazon**, Alec MacGillis
 - **Snowflake: The Definitive Guide**, Joyce Kay Avila
 - **Fundamentals of Data Engineering**, Joe Reis and Matt Housley
-- **k-punk**, Mark Fischer
 - **Designing Data-Intensive Applications**, Martin Kleppmann
 
 ### 2021
 
+- **k-punk**, Mark Fischer
 - **Triologia de Copenhaguen**, Tove Ditlevsen
 - **Nonviolent communication**, Marshall Rosenberg
 - **Many voices, one song**, Ted J. Rau and Jerry Koch-Gonzalez
@@ -74,3 +80,39 @@ Books I read, sometimes, somewhere.
 - **Fenomenología del fin. Sensibilidad y mutación conectiva**, Franco Bifo Berardi
 - **La mà esquerra de la foscor**, Ursula K. Le Guin
 - **Canto jo i la muntanya balla**, Irene Solà
+
+### 2019
+
+- **Postcapitalism: A Guide to Our Future**, Paul Mason
+- **La campana de vidre**, Sylvia Plath
+- **Capitalismo de plataformas**, Nick Srnicek
+- **Soberanía tecnológica**, Alex Haché
+- **The People’s Republic of Walmart: How the World’s Biggest Corporations are Laying the Foundation for Socialism**, Leigh Phillips
+- **Capitalismo Big Tech**, Evgeny Morozov
+- **La gran caiguda**, Peter Handke
+- **Tardor**, Ali Smith
+- **Illska. La maldad**, Eiríkur Örn Norðdahl
+- **Permanent record**, Edward Snowden
+- **Hola mundo**, Hannah Fry
+- **Final**, Karl Ove Knausgård
+- **2666**, Roberto Bolaño
+- **Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones**, Críptica
+- **Four Futures: Life After Capitalism**, Peter Frase
+- **Els límits del Quim Porta**, Josep Pedrals
+- **Visc, i visc, i visc**, Maggie O'Farrell
+- **The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power**, Shoshana Zuboff
+- **No nacemos machos. Cinco ensayos para repensar el ser hombre en el patriarcado**, Guadalupe Rivera
+- **Mi cuerpo es un territorio político**, Dorotea Gómez Grijalva
+- **Los asquerosos**, Santiago Lorenzo
+- **Contar es escuchar**, Ursula K. Le Guin
+- **Vincles ferotges. La dona singular i la ciutat**, Vivian Gornick
+- **Cova**, Anna Fernández
+- **Leer con niños**, Santiago Alba Rico
+- **Lèxic familiar**, Natalia Ginzburg
+- **Com una mica d'aigua al palmell de la mà**, Mireia Sallarès
+- **La silicolonización del mundo: la irresistible expansión del liberalismo digital**, Éric Sadin
+- **Amor**, Hanne Ørstavik
+- **El Patriarcat del Salari. Crítiques Feministes al Marxisme**, Silvia Federici
+- **Hem posat les mans a la crònica**, Manuel de Pedrolo
+- **Consider the Lobster and Other Essays**, David Foster Wallace
+- **Subversión feminista de la economía. Aportes para un debate sobre el conflicto capital-vida**, Amaia Pérez Orozco
